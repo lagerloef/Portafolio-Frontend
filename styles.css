@@ -1,0 +1,75 @@
+/*body {
+  background: rgb(10, 93, 1);
+
+}*/
+
+i{
+  color:white;
+}
+
+.container-logins i{
+  font-size: 7rem;
+}
+.card_1{
+  color: white;
+  width: auto;
+  border: 1px solid rgb(211, 182, 182);
+  padding: 15px;
+}
+
+
+/*
+.fa{
+  background-color: ;
+  margin-left: -4px;  
+}
+
+.fa.fa-twitter{ 
+  color:#00aced;
+}
+.fa.fa-dribbble{ 
+  color: #ea4c89;
+}
+.fa.fa-dropbox{
+  color:#007ee5;
+}
+.fa.fa-code{ color: #db4437;}
+.fa.fa-slack{ color:#3eb991;}
+.fa.fa-stack-overflow{color:#fe7a15;}
+.fa.fa-github-alt{ color:#999999;}
+.fa.fa-jsfiddle{ color:#5ba4e5;margin-left:-3.5px;
+}
+.btn:hover{
+   border: none;
+  background-color: #FFFFFF;
+}
+*/
+/*
+.overlap
+{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: blue;
+}
+.overlap:after
+{
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 5px;
+    left: 5px;
+    background-color: red;
+}
+*/
+
+.overlap{
+    position: relative;   
+}
+
+.overlap2{
+    position: absolute;
+    bottom: 5px;
+    left: 5px;  
+}
